@@ -168,7 +168,7 @@ function Game() {
                         className="toolbar-icon"
                         title="Download game"
                         src={download}
-                        onClick={() => window.open(`https://macvg-games.github.io/zips/game${id}.zip`, "_blank")}
+                        onClick={() => window.open(`https://geography-30.github.io/zips/game${id}.zip`, "_blank")}
                       />
                     )}
                     <img
